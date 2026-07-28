@@ -2,7 +2,7 @@
 
 ![The rubber-band UI: neon title over a synthwave grid, search console with genre and year filters, and ranked result cards showing relevance scores](screenshot.png)
 
-Synthwave front end for the [rubber-band](https://github.com/dallagnoli/rubber-band-ui-api) search API.
+Synthwave front end for the [rubber-band](https://github.com/dallagnoli/rubber-band-api) search API.
 
 Vite + React + TypeScript. No UI framework, no CSS library — the whole look is
 hand-written CSS in `src/index.css`.
